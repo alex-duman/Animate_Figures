@@ -5,7 +5,7 @@ Code for creating animated data visualizations in the form of GIFs.
 ![Alt Text](https://alexduman.weebly.com/uploads/1/1/0/6/110678391/run-forced-rotation_orig.gif)
 This is where I share my code to help animate data visualizations to create figures as GIFs (like the above GIF). If you want to add animation to your figures and data visualizations please feel free to download this repository and modify the code to fit the structure and needs of your data.
 
-I originally coded everything in MATLAB while I was a student, but wanted to create a similar script in Python to accommodate anyone who might not have access to MATLAB (including myself after graduation).
+In this repository there are two languages that allow you to animate figures. The first one I put together in MATLAB while I was a student with the help of [Dr. Monica Daley](https://neuromechanics.bio.uci.edu/), and eventually created a similar script in Python to accommodate anyone without access to MATLAB (including myself following graduation).
 
 ## Example Data Description
 In the 'data' folder you will find a video file 'Run_Forced_Rotation.mp4' and a corresponding csv file 'Run_Forced_Rotation_EMG.csv'. This is data from a single 30 second trial of a subject running with exaggerated or forced thoracic (shoulder) rotation. To learn more about the context of the experiment and check out my results please visit [my website](https://alexduman.weebly.com/shoulder_rotation.html).
