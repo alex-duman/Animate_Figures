@@ -1,4 +1,10 @@
 function [figHandle] = Animate_Figure(fileName,movieName,playBackRate,frameInc,duration,video_label)
+% CONTRIBUTORS
+% Alex Duman, Ph.D. - primary author, wrote and modified code for specific 
+%                     example GIF
+% Monica Daley, Ph.D. - provided initial code framework for plotting images
+%                       and saving figures as GIFs.
+
 % INPUTS  
 % fileName - name of file (e.g. 'Run_Forced_Rotation_EMG.csv')
 % movieName - name of movie file of interest (e.g. 'Run_Forced_Rotation.mp4')
